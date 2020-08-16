@@ -25,3 +25,6 @@
 .nav-link:active{
     color: hotpink;
 }
+.page{
+    justify-self: center;
+}
