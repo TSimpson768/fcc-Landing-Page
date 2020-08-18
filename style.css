@@ -25,6 +25,11 @@
 .nav-link:active{
     color: hotpink;
 }
-.page{
+#page{
     justify-self: center;
+    max-width: 900px;
+}
+#page-container{
+    display: flex;
+    justify-content: center;
 }
