@@ -171,3 +171,19 @@ h3{
     height: 100%;
     z-index: 0;
 }
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#info-list{
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+}
