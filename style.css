@@ -18,10 +18,13 @@
     #header{
         flex-direction: column;
         align-items: center;
-        height: 200px;
+        height: 160px;
     }
     nav{
         max-height: 125px;
+    }
+    #header-img{
+        min-height: 75px;
     }
 }
 
@@ -30,8 +33,7 @@ body{
     background-color: #eeeeee;
 }
 
-#header-img{
-    min-height: 75px; 
+#header-img{ 
     max-height: 100px;       
 }
 
@@ -53,6 +55,9 @@ body{
 }
 
 @media (max-width: 550px){
+    #nav-list{
+        margin: 0px;
+    }
     #nav-list li{
         display: flex;
         flex-direction: column;
@@ -79,7 +84,7 @@ body{
 }
 @media(max-width: 500px){
     #page{
-        margin-top: 200px;
+        margin-top: 160px;
     }
 }
 #page-container{
