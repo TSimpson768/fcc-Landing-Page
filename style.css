@@ -90,3 +90,8 @@ h3{
 #form{
     text-align: center;
 }
+
+#footer{
+    background-color: gray;
+    font-size: 8pt;
+}
