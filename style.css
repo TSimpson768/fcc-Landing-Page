@@ -6,6 +6,10 @@
     align-items: center;
 }
 
+body{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
 #header-img{
     height: 100%;
     
@@ -94,4 +98,8 @@ h3{
 #footer{
     background-color: gray;
     font-size: 8pt;
+}
+
+#video-div{
+    text-align: center;
 }
